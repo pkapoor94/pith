@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+def main(msg):
+    print(msg)
 
-print ("hello idiot")
-this is an  example
+
+main("hello idiots")
